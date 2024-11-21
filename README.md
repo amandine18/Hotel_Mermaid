@@ -4,16 +4,16 @@ Créeation d'une application web en PHP, SQL, HTML et CSS.
 Fonctionnalités :
 
 Partie publique :
-• page d’accueil
-• page des chambres disponibles
-• possibilité de réserver une chambre
-• possibilité de filtrer la liste des chambres
-• page de connexion et inscription
+- page d’accueil
+- page des chambres disponibles
+- possibilité de réserver une chambre
+- possibilité de filtrer la liste des chambres
+- page de connexion et inscription
 
 Partie privée :
-• gestion des chambres (ajout, modification, suppression)
-• gestion des réservations (validation + facturation)
-• gestion des utilisateurs
+- gestion des chambres (ajout, modification, suppression)
+- gestion des réservations (validation + facturation)
+- gestion des utilisateurs
 
 Utilisation :
 - importer le fichier "hotel.sql" sur PhpMyAdmin (Wamp)
