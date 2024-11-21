@@ -1,5 +1,5 @@
 # Hotel Mermaid
-Créeation d'une application web en PHP, SQL, HTML et CSS.
+Création d'une application web en PHP, SQL, HTML et CSS.
 
 Fonctionnalités :
 
