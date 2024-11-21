@@ -1,0 +1,65 @@
+h1{
+    position: absolute;
+    top: 10rem;
+    color: cornflowerblue;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    width: 70%;
+}
+
+h4{
+    position: absolute;
+    top: 13rem;
+    color: cornflowerblue;
+    width: 70%;
+    margin: 0;
+    text-align: center;
+    font-size: 15px;
+}
+
+.lieu{
+    font-size: 20px;
+}
+
+.text2{
+    text-align: center;
+    padding: 10rem 0 2rem 1.5rem;
+    width: 100%;
+}
+
+.click:hover{
+    background-color: lightskyblue;
+}
+
+.section2{
+    height: 100vh;
+    width: 100%;
+}
+
+.equipements1 ul{
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    width: 100%;
+    padding-bottom: 4rem;
+}
+
+.equipements1 li{
+    margin-right: 5rem;
+}
+
+.equipements2 ul{
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    width: 100%;
+    padding-bottom: 10rem;
+}
+
+.equipements2 li{
+    margin-right: 5rem;
+}

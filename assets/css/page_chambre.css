@@ -1,0 +1,10 @@
+.titre{
+  position: absolute;
+  top: 15rem;
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  color: black;
+  width: 50%;
+}
